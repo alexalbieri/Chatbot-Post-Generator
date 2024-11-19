@@ -1,0 +1,12 @@
+streamlit
+pandas
+node
+langchain-huggingface
+langchain
+langchain-community
+faiss-cpu
+CSVLoader
+spacy
+base64
+requests
+random
