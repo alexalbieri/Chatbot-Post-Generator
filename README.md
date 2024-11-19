@@ -72,4 +72,4 @@ Streamlit site with the chabot creating posts and suggesting images.
 - It is important to choose the correct database.
 - To find the correct free LLM that works correctly and constantly can be challenging.
 - The correct prompt makes a huge impact in the final output.
-- The streamlit site is theoretically simple, but to added new features and APIs to it may take some time and many debug sessions. 
+- The streamlit site is theoretically simple, but to add new features and APIs to it may take some time and many debug sessions. 
