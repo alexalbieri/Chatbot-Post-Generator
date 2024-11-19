@@ -7,8 +7,8 @@ import threading
 import time
 
 # Your predefined sender email and app-specific password
-SENDER_EMAIL = "chatty.post.generator@gmail.com"
-APP_PASSWORD = "wiro agdc wxwz cylm"  # Replace with your actual app password
+SENDER_EMAIL = "user"
+APP_PASSWORD = "password"  # Replace with your actual app password
 
 # Function to send email
 def send_email(name, email):
