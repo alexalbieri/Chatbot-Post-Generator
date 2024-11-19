@@ -41,20 +41,20 @@ With its diverse range of subjects, "Chatty" was designed to make LinkedIn conte
 
 ## Challenges
 
-- Collect data of the posts via API
-- Find the correct free LLM to work with
-- Create chatbot based on the database
-- Create Streamlit site
+- Collect data of the posts via API.
+- Find the correct free LLM to work with.
+- Create chatbot based on the database.
+- Create Streamlit site.
 
 ## Tasks
 
-- Select the correct users to collect the data via API
-- Find the correct free LLM to the project
-- Creating vectors with embeddings, a vector database and a RAG
-- Adding the proper prompt for the project
-- Create the streamlit site for the chatbot
-- Connecting the streamlit site to an images API
-- Create extra pages/features for streamlit
+- Select the correct users to collect the data via API.
+- Find the correct free LLM to the project.
+- Creating vectors with embeddings, a vector database and a RAG.
+- Adding the proper prompt for the project.
+- Create the streamlit site for the chatbot.
+- Connecting the streamlit site to an images API.
+- Create extra pages/features for streamlit.
 
 
 ## Deliverables
@@ -72,16 +72,16 @@ Streamlit site with the chabot creating posts and suggesting images.
 
 ## Data_Files
 
-- File creating vectors with embeddings, a vector database and a RAG
-- File calling the vectors and creating the streamlit site
-- Extra pages from the streamlit site
-- Presentation abt the project
-- Prints from the chatbot
+- File creating vectors with embeddings, a vector database and a RAG.
+- File calling the vectors and creating the streamlit site.
+- Extra pages from the streamlit site.
+- Presentation abt the project.
+- Prints from the chatbot.
 
 
 ## Lessons_Learned
 
-- It is important to choose the correct database
-- To find the correct free LLM that works correctly and constantly can be challenging
-- The correct prompt makes a huge impact in the final output
-- The streamlit site is theoretically simple, but to add new features and APIs to it may take some time and many debug sessions
+- It is important to choose the correct database.
+- To find the correct free LLM that works correctly and constantly can be challenging.
+- The correct prompt makes a huge impact in the final output.
+- The streamlit site is theoretically simple, but to add new features and APIs to it may take some time and many debug sessions.
