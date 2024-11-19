@@ -30,10 +30,10 @@ Main topics from the chatbot: Data Analytics, Data Science, Cybersecurity, Robot
 
 ## Challenges
 
-Collect data of the posts via API
-Find the correct free LLM to work with
-Create chatbot based on the database
-Create Streamlit site
+- Collect data of the posts via API
+- Find the correct free LLM to work with
+- Create chatbot based on the database
+- Create Streamlit site
 
 ## Tasks
 
