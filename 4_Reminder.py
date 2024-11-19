@@ -8,7 +8,7 @@ import time
 
 # Your predefined sender email and app-specific password
 SENDER_EMAIL = "user"
-APP_PASSWORD = "password"  # Replace with your actual app password
+APP_PASSWORD = "password"  
 
 # Function to send email
 def send_email(name, email):
