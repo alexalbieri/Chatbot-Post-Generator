@@ -23,9 +23,20 @@ To create a chatbot that creates posts for LinkedIn follwing a database, and als
 
 ## Project_Overview
 
-Many people struggle on creating posts for LinkedIn. It can be challenging to find a topic to talk about it. 
-The chatbot "Chatty" was created to help, especially in the beginning and support with different ideas in the creation of posts for linkedIn.
-Main topics from the chatbot: Data Analytics, Data Science, Cybersecurity, Robotics, Digital Marketing, Blockchain, AI & Machine Learning, Technology and Innovation.
+Many people find it challenging to create engaging posts for LinkedIn, often struggling to come up with relevant topics. To address this, the chatbot "Chatty" was developed as a solution to help users, particularly those just starting out, by providing inspiration and ideas for LinkedIn posts.
+
+"Chatty" assists in the creation of content by suggesting a variety of topics, including:
+
+- Data Analytics
+- Data Science
+- Cybersecurity
+- Robotics
+- Digital Marketing
+- Blockchain
+- AI & Machine Learning
+- Technology & Innovation
+  
+With its diverse range of subjects, "Chatty" was designed to make LinkedIn content creation easier and more efficient, offering valuable support every step of the way.
 
 
 ## Challenges
